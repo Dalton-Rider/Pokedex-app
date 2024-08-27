@@ -1,4 +1,3 @@
 pandas
 streamlit
-info2
 path
