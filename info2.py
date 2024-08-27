@@ -1,7 +1,7 @@
 import requests
 
 #main page
-main_image = "images/pokeball.png"
+main_image = "images/pokeball.jpg"
 about_app = "Enter criteria to find wich of the first 151 pokemon is for you."
 
 #pokemon Info:
